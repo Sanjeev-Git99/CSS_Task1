@@ -1,0 +1,111 @@
+body {
+  text-align: center;
+}
+table {
+  border-collapse: collapse;
+  height: 50vh;
+  width: 80vh;
+  
+}
+.green {
+  color: black;
+  background-color: green;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: "Roboto";
+}
+.white {
+  color: black;
+  background-color: white;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: "caveat";
+}
+.blue {
+  color: white;
+  background-color: blue;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: monospace;
+}
+.black {
+  color: white;
+  background-color: black;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+#red {
+  color: black;
+  background-color: red;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: serif;
+}
+#orange {
+  color: black;
+  background-color: orange;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+}
+#yellow {
+  color: black;
+  background-color: yellow;
+  font-size: 25px;
+  font-weight: bold;
+}
+#brown {
+  color: black;
+  background-color: brown;
+  font-size: 25px;
+  font-weight: bold;
+}
+.aqua {
+  color: black;
+  background-color: aqua;
+  font-size: 25px;
+  font-weight: bold;
+}
+.chocolate {
+  color: black;
+  background-color: chocolate;
+  font-size: 25px;
+  font-weight: bold;
+}
+.cyan {
+  color: black;
+  background-color: cyan;
+  font-size: 25px;
+  font-weight: bold;
+}
+td {
+  color: black;
+  background-color: darkblue;
+  font-size: 25px;
+  font-weight: bold;
+}
+.golden {
+  color: black;
+  background-color: gold;
+  font-size: 25px;
+  font-weight: bold;
+}
+.olivegreen {
+  color: white;
+  background-color: olive;
+  font-size: 25px;
+  font-weight: bold;
+}
+#pink {
+  color: black;
+  background-color: pink;
+  font-size: 25px;
+  font-weight: bold;
+}
+#gray {
+  color: black;
+  background-color: gray;
+  font-size: 25px;
+  font-weight: bold;
+}
